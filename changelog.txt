@@ -216,7 +216,7 @@ v1.0.1
 - Removed: Version/settings.xml check
 
 v1.0.0
-- Name change: Extrafanart Downloader -> Artwork Downloader
+- Name change: Extrafanart Downloader -> Paragon Paradex
 - Fixed: Refactored JSON query to prevent reg-ex problems
 - Fixed: Total refactor on downloading and limiting
 - Added: Limit extrafanart on image size

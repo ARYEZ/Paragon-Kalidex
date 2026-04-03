@@ -47,7 +47,7 @@ __localize__     = lib.common.__localize__
 __addonname__    = lib.common.__addonname__
 __icon__         = lib.common.__icon__
 
-cache = StorageServer.StorageServer("ArtworkDownloader",240)
+cache = StorageServer.StorageServer("ParagonParadex",240)
 
 ### Adjust default timeout to stop script hanging
 socket.setdefaulttimeout(20)

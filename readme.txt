@@ -15,4 +15,4 @@ You can change the settings if you wish in the addon settings page.
 
 This script has some different run modes. Please check the XBMC wiki page:
 
-http://wiki.xbmc.org/index.php?title=Add-on:Artwork_Downloader
+http://wiki.xbmc.org/index.php?title=Add-on:Paragon_Paradex
